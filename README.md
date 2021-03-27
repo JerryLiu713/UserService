@@ -1,5 +1,5 @@
 # UserService
-The other project will be an application that is the client of the first as well as the Accounts service(https://spring.io/blog/2015/07/14/microservices-with-spring) from the sample code. It supports
+This project will be an application that is the client of the first as well as the Accounts service(https://spring.io/blog/2015/07/14/microservices-with-spring) from the sample code. It supports
 “Signing on” – all this requires is the user entering one of the account numbers that already exists.
 This requires querying the Accounts service
 Once this is done, then the following are allowed:
